@@ -1,6 +1,5 @@
-# This repository has moved to https://github.com/instalution/frontend
+## This repository has moved to https://github.com/instalution/frontend
 
----
 ---
 ---
 
